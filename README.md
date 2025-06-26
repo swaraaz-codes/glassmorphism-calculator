@@ -21,7 +21,7 @@ This project demonstrates modern CSS design concepts like:
 
 ### 📸 Preview:
 
-![Preview](screenshot.png)
+![Preview](Screenshot.png)
 
 ---
 
